@@ -1,0 +1,9 @@
+# Nmap 7.99 scan initiated Sun Aug 30 13:41:52 2026 as: /usr/lib/nmap/nmap --privileged -Pn -p 80,443 --reason -oN evidence/nmap/04_nmap_web_ports.txt demo.testfire.net
+Nmap scan report for demo.testfire.net (65.61.137.117)
+Host is up, received user-set (0.26s latency).
+
+PORT    STATE SERVICE REASON
+80/tcp  open  http    syn-ack ttl 128
+443/tcp open  https   syn-ack ttl 128
+
+# Nmap done at Sun Aug 30 13:41:58 2026 -- 1 IP address (1 host up) scanned in 5.83 seconds
