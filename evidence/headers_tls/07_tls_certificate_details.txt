@@ -1,0 +1,4 @@
+subject=CN=demo.testfire.net
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+notBefore=May 21 00:00:00 2025 GMT
+notAfter=Jun 21 23:59:59 2026 GMT
